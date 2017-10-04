@@ -1,0 +1,8 @@
+			Features
+-Shooting lowers npc hp
++pickup objects
+-dialog picking
++guns
++cars
++npc
++explosion

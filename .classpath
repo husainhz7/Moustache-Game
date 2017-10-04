@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Library/eventbus.jar"/>
+	<classpathentry kind="lib" path="Library/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="Library/j-ogg-oggd.jar"/>
+	<classpathentry kind="lib" path="Library/j-ogg-vorbisd.jar"/>
+	<classpathentry kind="lib" path="Library/jbullet.jar" sourcepath="source/com/jme3/bullet/objects"/>
+	<classpathentry kind="lib" path="Library/jglfont-core.jar"/>
+	<classpathentry kind="lib" path="Library/jinput.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-blender.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-core.jar" sourcepath="source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Husain%20Zaidi/Documents/GameMaking/AMainFILE/MoustachGame/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Library/jME3-desktop.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-effects.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-jbullet.jar" sourcepath="Library/jME3-jbullet.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-jogg.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-lwjgl.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-networking.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-niftygui.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-openal-soft-natives-android.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-plugins.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-terrain.jar"/>
+	<classpathentry kind="lib" path="Library/jME3-testdata.jar"/>
+	<classpathentry kind="lib" path="Library/joal.jar"/>
+	<classpathentry kind="lib" path="Library/jogl-all.jar"/>
+	<classpathentry kind="lib" path="Library/lwjgl.jar"/>
+	<classpathentry kind="lib" path="Library/nifty-default-controls.jar"/>
+	<classpathentry kind="lib" path="Library/nifty-examples.jar"/>
+	<classpathentry kind="lib" path="Library/nifty-style-black.jar"/>
+	<classpathentry kind="lib" path="Library/nifty.jar"/>
+	<classpathentry kind="lib" path="Library/stack-alloc.jar"/>
+	<classpathentry kind="lib" path="Library/vecmath.jar"/>
+	<classpathentry kind="lib" path="Library/xmlpull-xpp3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

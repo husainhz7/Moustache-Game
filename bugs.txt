@@ -1,0 +1,4 @@
+			Bugs
++cant shoot in 2nd scene.
+-fix hands jittering
+-level 2 no light
